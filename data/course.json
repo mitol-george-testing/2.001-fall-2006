@@ -1,0 +1,35 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "fdaa39cf-8d06-11e9-ccf3-4a93d42cabb3",
+      "ac95a6d2-c06d-6397-cf8e-2f18cfab7ab7",
+      "2bc336e4-567f-e051-c532-8336eda7584b",
+      "36187eda-fdca-ce1d-9166-0b5981c533bd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Mechanics & Materials I",
+  "course_description": "This course provides an introduction to the mechanics of solids with applications to science and engineering. We emphasize the three essential features of all mechanics analyses, namely: (a) the geometry of the motion and/or deformation of the structure, and conditions of geometric fit, (b) the forces on and within structures and assemblages; and (c) the physical aspects of the structural system (including material properties) which quantify relations between the forces and motions/deformation.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.001",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
